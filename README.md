@@ -6,10 +6,10 @@ To execute simple runs with python command into the root folder:
 python3 main.py
 ```
 ## Controls
-shoot - space
-move foward - up
-move backward - down
-rotate clockwise - right
-rotate unclockwise - left
+shoot - space \
+move foward - up \
+move backward - down \
+rotate clockwise - right \
+rotate unclockwise - left 
 
 The game is incomplete, so there is no winning.
