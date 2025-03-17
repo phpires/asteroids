@@ -1,6 +1,6 @@
 A simple asteroid game made in pygame for [boot.dev](https://www.boot.dev/courses/build-asteroids-python)
 
-## Exectuion
+## Execution
 To execute simple runs with python command into the root folder:
 ```sh
 python3 main.py
